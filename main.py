@@ -1,4 +1,4 @@
-
+from Functions import parse_horn, is_satisfiable
 
 if __name__ == "__main__":
     formula_str = input("Enter a Horn formula: ")
